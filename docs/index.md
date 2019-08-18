@@ -1,11 +1,12 @@
-# Should We Use an Abstract Comic Form to Persuade?Experiments with Online Charitable Donation
-Ziang Xiao
-Po-Shiun Ho
-Xinran Wang
-Karrie Karahalios
-Hari Sundaram
+## Should We Use an Abstract Comic Form to Persuade?Experiments with Online Charitable Donation
 
-University of Illinois at Urbana-Champaign
+##### Ziang Xiao
+##### Po-Shiun Ho
+##### Xinran Wang
+##### Karrie Karahalios
+##### Hari Sundaram
+
+######University of Illinois at Urbana-Champaign
 You can use the [editor on GitHub](https://github.com/ziangxiao/Abstract_Comic_Persuasion/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
