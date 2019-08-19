@@ -1,11 +1,14 @@
-# Should We Use an Abstract Comic Form to Persuade?
-## Experiments with Online Charitable Donation
+### Author
+Ziang Xiao, Po-Shiun Ho, Xinran Wang, Karrie Karahalios, Hari Sundaram
 
-#### Ziang Xiao, Po-Shiun Ho, Xinran Wang, Karrie Karahalios, Hari Sundaram
-##### University of Illinois at Urbana-Champaign
+University of Illinois at Urbana-Champaign
+
+Contact: zxiao5@illinois.edu
 
 ### Abstract
+```markdown
 This paper examines the use of the abstract comic form for making online charitable donations. Persuadingindividuals to contribute to charitable causes online is hard and responses to appeals are typically low;charitable donations share the structure of public goods dilemmas where the rewards are distant and non-exclusive. In this paper, we examine if comics in abstract form are more persuasive than the plain text. Drawingon a rich literature on comics, we algorithmically synthesized a three-panel abstract comic to create our appeal.We conducted a between-subject Amazon Mechanical Turk study with 307 participants on the use of abstractcomic form to appeal for charitable donation. As part of our experimental procedure, we sought to persuadeindividuals to contribute to a real charity focused on Autism research with monetary cost. We comparedthe average amount of donation to the charity under three conditions: the plain text message, an abstractcomic that includes the plain text, and an abstract comic that additionally includes the social norm. We useBayesian modeling to analyze the results, motivated by model transparency and its use in small-sized studies.Our experiments reveal that the message in abstract comic form elicits more donations than text (medium tolarge effect size=0.59) significantly. Incorporating social proof in the abstract comic message did not show asignificant effect. Our studies have design implications: non-profits and governmental agencies interested inalleviating public goods dilemmas that share a similar structure to our experiment (single-shot task, distant,non-exclusive reward) ought to consider including messages in the abstract comic form as part of their onlinefundraising campaign.
+```
 
 
 You can use the [editor on GitHub](https://github.com/ziangxiao/Abstract_Comic_Persuasion/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
