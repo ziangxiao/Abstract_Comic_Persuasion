@@ -1,8 +1,22 @@
 ---
 layout: default
 ---
+##### Ziang Xiao - zxiao5@illinois.edu
+##### Po-Shiun Ho
+##### Xinran Wang
+##### Karrie Karahalios
+##### Hari Sundaram
+###### University of Illinois at Urbana-Champaign
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Abstract
+This paper examines the use of the abstract comic form for making online charitable donations. Persuadingindividuals to contribute to charitable causes online is hard and responses to appeals are typically low;charitable donations share the structure of public goods dilemmas where the rewards are distant and non-exclusive. In this paper, we examine if comics in abstract form are more persuasive than the plain text. Drawingon a rich literature on comics, we algorithmically synthesized a three-panel abstract comic to create our appeal.We conducted a between-subject Amazon Mechanical Turk study with 307 participants on the use of abstractcomic form to appeal for charitable donation. As part of our experimental procedure, we sought to persuadeindividuals to contribute to a real charity focused on Autism research with monetary cost. We comparedthe average amount of donation to the charity under three conditions: the plain text message, an abstractcomic that includes the plain text, and an abstract comic that additionally includes the social norm. We useBayesian modeling to analyze the results, motivated by model transparency and its use in small-sized studies.Our experiments reveal that the message in abstract comic form elicits more donations than text (medium tolarge effect size=0.59) significantly. Incorporating social proof in the abstract comic message did not show asignificant effect. Our studies have design implications: non-profits and governmental agencies interested inalleviating public goods dilemmas that share a similar structure to our experiment (single-shot task, distant,non-exclusive reward) ought to consider including messages in the abstract comic form as part of their onlinefundraising campaign.
+
+### Supplemental Materials
+*   Code for the Comic Generator.
+*   Code for Bayesian Analysis.
+*   Dataset.
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +134,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
